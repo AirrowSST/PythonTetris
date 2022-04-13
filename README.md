@@ -1,5 +1,5 @@
 # PythonTetris
-An implementation of Tetris in Python 3.10
+An implementation of Tetris in Python 3.9
 
 (Note: numpy, as well as the default python libraries, will be needed to use the code)
 
